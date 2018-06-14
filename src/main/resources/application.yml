@@ -1,2 +1,2 @@
-server:
-  port: ${appPort}
+#server:
+#  port: ${appPort}
